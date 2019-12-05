@@ -1,30 +1,30 @@
-2019-12-05 13:24:47,557 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
-2019-12-05 13:24:47,585 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2019-12-05 13:24:47,586 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.0/libexec/bin/system.properties
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: Version 5.0 r1840935
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: java.version=11.0.1
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: os.name=Mac OS X
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: os.arch=x86_64
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: os.version=10.14.6
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: file.encoding=UTF-8
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: Max memory     =1073741824
-2019-12-05 13:24:47,591 INFO o.a.j.JMeter: Available Processors =12
-2019-12-05 13:24:47,599 INFO o.a.j.JMeter: Default Locale=English (EN)
-2019-12-05 13:24:47,600 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
-2019-12-05 13:24:47,600 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.0/libexec
-2019-12-05 13:24:47,600 INFO o.a.j.JMeter: user.dir  =/Users/howarddavis/RCR/rod-catch-performace
-2019-12-05 13:24:47,600 INFO o.a.j.JMeter: PWD       =/Users/howarddavis/RCR/rod-catch-performace
-2019-12-05 13:24:47,614 INFO o.a.j.JMeter: IP: 10.64.64.191 Name: ip-10-64-64-191.eu-west-2.compute.internal FullName: ip-10-64-64-191.eu-west-2.compute.internal
-2019-12-05 13:24:48,758 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
-2019-12-05 13:24:48,764 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
-2019-12-05 13:24:48,765 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
-2019-12-05 13:24:48,834 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2019-12-05 13:24:49,345 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
-2019-12-05 13:24:49,345 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
-2019-12-05 13:24:50,159 INFO k.a.j.JMeterPluginsUtils: JMeter-Plugins.org v.1.4.0
-2019-12-05 13:24:50,548 WARN o.a.j.g.u.MenuFactory: Configuration error, probably corrupt or missing third party library(jar)? Could not create class: kg.apc.jmeter.reporters.LoadosophiaUploaderGui.
+2019-12-05 14:52:30,288 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2019-12-05 14:52:30,322 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2019-12-05 14:52:30,324 INFO o.a.j.JMeter: Loading system properties from: /usr/local/Cellar/jmeter/5.0/libexec/bin/system.properties
+2019-12-05 14:52:30,330 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2019-12-05 14:52:30,330 INFO o.a.j.JMeter: Version 5.0 r1840935
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: java.version=11.0.1
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: os.name=Mac OS X
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: os.arch=x86_64
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: os.version=10.14.6
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: file.encoding=UTF-8
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: Max memory     =1073741824
+2019-12-05 14:52:30,331 INFO o.a.j.JMeter: Available Processors =12
+2019-12-05 14:52:30,341 INFO o.a.j.JMeter: Default Locale=English (EN)
+2019-12-05 14:52:30,341 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2019-12-05 14:52:30,341 INFO o.a.j.JMeter: JMeterHome=/usr/local/Cellar/jmeter/5.0/libexec
+2019-12-05 14:52:30,341 INFO o.a.j.JMeter: user.dir  =/Users/howarddavis/RCR/rod-catch-performace
+2019-12-05 14:52:30,341 INFO o.a.j.JMeter: PWD       =/Users/howarddavis/RCR/rod-catch-performace
+2019-12-05 14:52:30,363 INFO o.a.j.JMeter: IP: 10.64.64.191 Name: ip-10-64-64-191.eu-west-2.compute.internal FullName: ip-10-64-64-191.eu-west-2.compute.internal
+2019-12-05 14:52:31,775 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2019-12-05 14:52:31,784 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2019-12-05 14:52:31,784 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2019-12-05 14:52:31,888 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2019-12-05 14:52:32,568 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-12-05 14:52:32,568 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-12-05 14:52:33,458 INFO k.a.j.JMeterPluginsUtils: JMeter-Plugins.org v.1.4.0
+2019-12-05 14:52:33,927 WARN o.a.j.g.u.MenuFactory: Configuration error, probably corrupt or missing third party library(jar)? Could not create class: kg.apc.jmeter.reporters.LoadosophiaUploaderGui.
 java.lang.NoClassDefFoundError: org/apache/commons/httpclient/methods/multipart/PartSource
 	at kg.apc.jmeter.reporters.LoadosophiaUploaderGui.init(LoadosophiaUploaderGui.java:114) ~[JMeterPlugins-Standard.jar:?]
 	at kg.apc.jmeter.reporters.LoadosophiaUploaderGui.<init>(LoadosophiaUploaderGui.java:28) ~[JMeterPlugins-Standard.jar:?]
@@ -59,20 +59,20 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.httpclient.metho
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
 	... 28 more
-2019-12-05 13:24:51,159 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2019-12-05 13:24:51,159 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2019-12-05 13:24:51,159 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2019-12-05 13:24:51,159 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2019-12-05 13:24:51,159 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2019-12-05 13:24:51,160 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2019-12-05 13:24:51,472 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
-2019-12-05 13:24:51,472 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /usr/local/Cellar/jmeter/5.0/libexec/bin/proxyserver.jks
-2019-12-05 13:24:51,601 INFO o.a.j.s.FileServer: Default base='/Users/howarddavis/RCR/rod-catch-performace'
-2019-12-05 13:24:51,823 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2019-12-05 13:24:51,823 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2019-12-05 13:24:51,823 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2019-12-05 13:24:51,823 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2019-12-05 13:24:51,840 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2019-12-05 14:52:34,509 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-05 14:52:34,509 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-05 14:52:34,509 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-05 14:52:34,509 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-12-05 14:52:34,509 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-12-05 14:52:34,509 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-12-05 14:52:34,852 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2019-12-05 14:52:34,852 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file /usr/local/Cellar/jmeter/5.0/libexec/bin/proxyserver.jks
+2019-12-05 14:52:34,978 INFO o.a.j.s.FileServer: Default base='/Users/howarddavis/RCR/rod-catch-performace'
+2019-12-05 14:52:35,246 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2019-12-05 14:52:35,247 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2019-12-05 14:52:35,247 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2019-12-05 14:52:35,247 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2019-12-05 14:52:35,266 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
 java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
 	at java.lang.Class.forName0(Native Method) ~[?:?]
 	at java.lang.Class.forName(Class.java:315) ~[?:?]
@@ -111,15 +111,15 @@ Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
 	... 32 more
-2019-12-05 13:25:02,394 INFO o.a.j.g.a.Load: Loading file: /Users/howarddavis/RCR/rod-catch-performace/FrontendTests.jmx
-2019-12-05 13:25:02,394 INFO o.a.j.s.FileServer: Set new base='/Users/howarddavis/RCR/rod-catch-performace'
-2019-12-05 13:25:02,514 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2019-12-05 13:25:02,528 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2019-12-05 13:25:02,529 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2019-12-05 13:25:02,531 INFO o.a.j.s.SaveService: Loading file: /Users/howarddavis/RCR/rod-catch-performace/FrontendTests.jmx
-2019-12-05 13:25:02,559 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
-2019-12-05 13:25:02,560 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
-2019-12-05 13:25:02,741 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2019-12-05 14:52:45,930 INFO o.a.j.g.a.Load: Loading file: /Users/howarddavis/RCR/rod-catch-performace/FrontendTests.jmx
+2019-12-05 14:52:45,931 INFO o.a.j.s.FileServer: Set new base='/Users/howarddavis/RCR/rod-catch-performace'
+2019-12-05 14:52:46,085 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-12-05 14:52:46,109 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-12-05 14:52:46,110 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-12-05 14:52:46,111 INFO o.a.j.s.SaveService: Loading file: /Users/howarddavis/RCR/rod-catch-performace/FrontendTests.jmx
+2019-12-05 14:52:46,145 INFO o.a.j.p.h.c.CacheManager: Will only cache the following methods: [GET]
+2019-12-05 14:52:46,146 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2019-12-05 14:52:46,350 WARN o.a.j.v.ViewResultsFullVisualizer: Error loading result renderer: org.apache.jmeter.visualizers.RenderInBrowser
 java.lang.NoClassDefFoundError: javafx/embed/swing/JFXPanel
 	at java.lang.Class.forName0(Native Method) ~[?:?]
 	at java.lang.Class.forName(Class.java:315) ~[?:?]
@@ -164,4 +164,4 @@ Caused by: java.lang.ClassNotFoundException: javafx.embed.swing.JFXPanel
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:588) ~[?:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:521) ~[?:?]
 	... 38 more
-2019-12-05 13:25:02,864 INFO o.a.j.s.FileServer: Set new base='/Users/howarddavis/RCR/rod-catch-performace'
+2019-12-05 14:52:46,412 INFO o.a.j.s.FileServer: Set new base='/Users/howarddavis/RCR/rod-catch-performace'
