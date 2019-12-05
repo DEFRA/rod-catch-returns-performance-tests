@@ -305,3 +305,5 @@
 2019-12-05 12:46:53,324 ERROR o.a.j.a.J.JSR223 Assertion - Check submission is clean: Duplicate login: DA8AF0,CA23 3EP
 2019-12-05 12:46:55,008 ERROR o.a.j.a.J.JSR223 Assertion - Check submission is clean: Duplicate login: 56B2EA,YO32 9SH
 2019-12-05 12:47:00,521 ERROR o.a.j.a.J.JSR223 Assertion - Check submission is clean: Duplicate login: 531103,EX20 2DB
+2019-12-05 13:16:27,764 INFO o.a.j.r.ResultCollector: Shutdown hook started
+2019-12-05 13:16:27,765 INFO o.a.j.r.ResultCollector: Shutdown hook ended
